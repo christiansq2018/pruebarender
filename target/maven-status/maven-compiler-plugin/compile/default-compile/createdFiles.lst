@@ -1,0 +1,5 @@
+com\lta\gestionempleados\exception\ResourceNotFoundException.class
+com\lta\gestionempleados\GestionEmpleadosBackendApplication.class
+com\lta\gestionempleados\model\Empleado.class
+com\lta\gestionempleados\controller\EmpleadoController.class
+com\lta\gestionempleados\repository\EmpleadoRepository.class
